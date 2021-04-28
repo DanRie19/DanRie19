@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Riera</h1>
-<h3 align="center">A passionate frontend developer from Miami, FL</h3>
+<h3 align="center">A passionate web developer from Miami, FL</h3>
 
 - 📫 How to reach me **contact@danielriera.dev**
 
